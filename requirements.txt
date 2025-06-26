@@ -11,6 +11,6 @@ wandb==0.19.9
 transformers==4.51.3
 scikit-learn==1.6.1
 faiss-cpu==1.10.0
-sentence-transformers==3.4.1
+sentence-transformers==4.1.0
 langchain-google-genai==0.0.9
 pillow==11.1.0
